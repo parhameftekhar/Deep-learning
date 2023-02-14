@@ -6,6 +6,6 @@
 
 
 # Assignment 2
-* In this assignment multi-layer perceptron is implemented and trained using PyTorch to classify the CIFAR-10 dataset.
+* In this assignment multi-layer perceptron (MLP) is implemented and trained using PyTorch to classify the CIFAR-10 dataset.
 
 
