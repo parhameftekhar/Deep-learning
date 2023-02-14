@@ -2,7 +2,7 @@
 
 # Assignment 1
 
-* In this assignment linear multi-class support vector machine (SVM) with soft-margin is implemeted.
+* This assignment starts with some numpy warm-up and the implementation of linear multi-class support vector machine (SVM) with soft-margin.
 
 
 # Assignment 2
