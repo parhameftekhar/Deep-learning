@@ -6,6 +6,8 @@
 
 
 # Assignment 2
-* In this assignment multi-layer perceptron (MLP) is implemented and trained using PyTorch to classify the CIFAR-10 dataset.
+* Part1: In this part different blocks of multi-layer perceptron (MLP) e.g. dense layer, ReLU, BatchNormalization to name a few are implemented using NumPy.
+* Part2: The goal of this part is to train a MLP implemented in Part1 to classify the CIFAR100 dataset.
+
 
 
