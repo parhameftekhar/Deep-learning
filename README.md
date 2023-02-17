@@ -21,7 +21,7 @@
 
 # Assignment4:
 
-* **Part1:** In this part, a language model is trained on [Wikitext](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) using a stack of LSTMs. To overcome the problem of overfiting different regularization techniques are used e.g. 
+* **Part1:** In this part, a language model is trained on [Wikitext](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) using a stack of LSTMs. To overcome the problem of overfiting, different regularization techniques are used e.g. activity regularization, temporal activation regularization.
 
 
 * **Part2:**
