@@ -1,4 +1,4 @@
-# Deep-learning
+# Deep-learning course
 
 # Assignment 1
 
@@ -16,6 +16,8 @@
 * **Part1:** In this part, different blocks of a convolutional neural network (CNN) is implemented e.g. convolution, max pooling, CNN batch normalization.
 
 * **Part2:** In this part, a CNN is trained using PyTorch modules to classify the fashion-mnist dataset.
+
+* **Part3:** In this part, a simple residual network architecture is implemented using PyTorch modules.
 
 
 
