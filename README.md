@@ -24,7 +24,7 @@
 * **Part1:** In this part, a language model is trained on [Wikitext](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) using a stack of LSTMs. To overcome the problem of overfiting, different regularization techniques are used e.g. activity regularization, temporal activation regularization.
 
 
-* **Part2:** The goal of this part is to introducing the preprocessing concepts of tokenization, vocabulary in NLP as well as working with PyTorch modules for padding and packing sequences and adding embedding layers.
+* **Part2:** The goal of this part is to introduce the preprocessing concepts of tokenization, vocabulary in NLP as well as working with PyTorch modules for padding and packing sequences and adding embedding layers.
 
 
 * **Part3:** The goal of this part is to implement a English-to-French machine translation with attention mechanism using encoder-decoder architecture.
