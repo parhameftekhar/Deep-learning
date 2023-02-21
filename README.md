@@ -27,5 +27,5 @@
 * **Part2:** The goal of this part is to introducing the preprocessing concepts of tokenization, vocabulary in NLP as well as working with PyTorch modules for padding and packing sequences and adding embedding layers.
 
 
-* **Part3:**
+* **Part3:** The goal of this part is to implement a English-to-French machine translation with attention mechanism using encoder decoder architecture.
 
